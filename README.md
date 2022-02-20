@@ -1,4 +1,4 @@
-# Hello, Github commnunity!
+# Hello, Github community!
 
 ## :heart: JavaScript is a great language. You know that :smile:
 
